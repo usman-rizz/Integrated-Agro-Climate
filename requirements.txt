@@ -1,0 +1,14 @@
+# Libraries required for data analysis and machine learning projects
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scikit-learn
+jupyterlab
+openpyxl
+statsmodels
+xgboost
+lightgbm
+ipykernel
+
