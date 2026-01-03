@@ -11,4 +11,4 @@ statsmodels
 xgboost
 lightgbm
 ipykernel
-
+streamlit
